@@ -63,5 +63,11 @@ with open(index_file_path, 'r') as index:
 
                 id += 1
 
+print('')
+print('######################## CONCLUSION ########################')
+print('##' + str(id) + ' file(s) downloaded (+ index) ##')
+print('############################################################')
+
+
 
 
